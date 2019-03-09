@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: black;
+
+}
+header{
+  color: aliceblue;
+}
+section {
+    height: 700px;
+    width: 100% auto;
+    color: aliceblue;
+}
+
+.navbar{
+  background-color: transparent;
+  position: relative;
+  top:30px;
+  right: 80px;
+  color: white;
+
+
+}
+.carousel{
+  position: relative;
+  margin-top: -60px;
+}
+
+#page1{
+background-color: #5e2697;
+
+
+}
+
+#page2 {
+background-color: #512182;
+}
+
+#page3 {
+background-color: #431b6c;
+}
+
+#page4 {
+background-color: #5e2697;
+}
+#btnTop, #btnBottom{
+  width: 130px;
+  height: 30px;
+  text-align: center;
+  margin: 5px;
+}
+.btnGoBottom{
+  background-color: #512182;
+  margin-top: 100px;
+  border-color: black;
+  height: 50px;
+  width: 225px;
+
+}
